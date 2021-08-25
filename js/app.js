@@ -9,5 +9,5 @@ setInterval(() => {
 
     hour.style.transform = `rotate(${hhr}deg)`;
     minute.style.transform = `rotate(${mmr}deg)`;
-    second5.style.transform = `rotate(${ssr}deg)`;
+    seconds.style.transform = `rotate(${ssr}deg)`;
 }, 1000);
